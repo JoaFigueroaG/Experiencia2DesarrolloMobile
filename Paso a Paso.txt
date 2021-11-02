@@ -1,0 +1,3 @@
+P0: npm install --save newsapi
+P1: npm install --save @ionic/storage
+P2: npm install --save @ionic/storage-angular
